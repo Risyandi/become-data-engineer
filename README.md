@@ -26,4 +26,7 @@ pipeline adalah satu set dari elemen pemrosesan data dihubungkan secara seri, se
 Berikut adalah contoh sederhana dari data pipeline : 
 
 ![data pipeline](img/data-pipeline.png)  
-*gambar : data pipeline*
+*gambar : data pipeline*  
+
+# Latihan
+Ini adalah beberapa list latihan yang bisa dicoba untuk menjadi seorang insinyur data :
