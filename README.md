@@ -1,7 +1,7 @@
 # Menjadi Seorang Insinyur Data
 Secara definisi pekerjaan dari insinyur data adalah seorang insinyur yang mengembangkan, mengkonstruksi, tes, dan merawat arsitektur seperti *database* dan *large-scale processing systems.*
 
-Seorang insinyur data mempunyai spesialisasi spesifik pada beberapa aspek teknikal, seperti insinyur data harus mempunyai keahlian automasi / programming skill, desain ETL *(Extract Transfer Load)*, memahami sebuah sistem, modeling data, *SQL* dan *NONSQL* dan beberapa skill yang berkaitan dengan pemrosesan data.
+Seorang insinyur data mempunyai spesialisasi spesifik pada beberapa aspek teknikal, seperti insinyur data harus mempunyai keahlian automasi / programming skill, desain *[ETL (Extract Transform Load)](docs/etl.md)*, memahami sebuah sistem, modeling data, *SQL* dan *NONSQL* dan beberapa skill yang berkaitan dengan pemrosesan data.
 
 Ada beberapa aspek yang mesti kamu ketahui sebelum kamu menjadi seorang insinyur data ? Aspek yang berkaitan erat dengan insinyur data adalah seperti berikut :
 
