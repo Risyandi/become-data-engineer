@@ -11,7 +11,7 @@ Pada aspek yang berhubungan dengan basis data / database ini, seorang insinyur d
 **Contoh Database :** postgreSQL, mySQL dan yang lainnya.
 
 # 2. Pemrosesan / Processing
-Pada aspek pemrosesan ini, seorang insinyur data akan menggunakan beberapa alat bantu yang akan membantu nya untuk melakukan proses pembersihan data yang corupt atau tidak terpakai / proses *clean data*, melakukan pengumpulan data yang terpisah pisah menjadi satu / proses *aggregate data* , dan melakukan penggabungan data / proses *join data*.  
+Pada aspek pemrosesan ini, seorang insinyur data akan menggunakan beberapa alat bantu yang akan membantu nya untuk melakukan proses pembersihan data yang corupt atau tidak terpakai /*clean data process*, melakukan pengumpulan data yang terpisah pisah menjadi satu / proses *aggregate data* , dan melakukan penggabungan data / *join data process*.  
 
 **Contoh Processing :** Apache Spark, Hive dan yang lainnya. 
 
